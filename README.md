@@ -1,7 +1,7 @@
 ## Active Directory Home Lab
 
 ### Description
-This project involves creating an Active Directory home lab environment within VirtualBox, including setting up routing, NAT, and users to log in to the domain via a second virtual machine. It assumes knowledge of setting up virtual machines in VirtualBox.
+This project involves creating an Active Directory home lab environment within VirtualBox, including setting up routing, NAT, and users to log in to the domain via a second virtual machine. It assumes knowledge of setting up virtual machines in VirtualBox. Make sure you have Oracle VirtualBox, Server 19, Windows 10 ISO's. The steps start with configuring Server 19 in a normal way, with a notable exception of making sure it has two NIC's enabled.
 
 ### Languages and Utilities Used
 - **PowerShell**
